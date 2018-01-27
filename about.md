@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a growth-minded individual with a heavy emphasis on software development and source control ideas and technologies.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+By day, I am a gainfully employed full stack software developer specializing in leadership, human-to-human interactions, source control methodologies (primarily using distribution source control systems) and focusing on C#, Microsoft SQL Server, Angular and Typescript. 
+
+Recent explorations outside of my comfort zone include learning Python, building a personal brand, screencasting and formalizing a framework for onboarding developers new to Git.
 
 ### Contact me
 
