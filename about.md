@@ -8,7 +8,7 @@ I'm a growth-minded individual with a heavy emphasis on software development and
 
 ### More Information
 
-By day, I am a gainfully employed full stack software developer specializing in leadership, human-to-human interactions, source control methodologies (primarily using distribution source control systems) and focusing on C#, Microsoft SQL Server, Angular and Typescript. 
+By day, I am a gainfully employed full stack software developer specializing in leadership, human-to-human interactions, source control methodologies (primarily using distributed source control systems) and focusing on C#, Microsoft SQL Server, Angular and Typescript. 
 
 Recent explorations outside of my comfort zone include learning Python, building a personal brand, screencasting and formalizing a framework for onboarding developers new to Git.
 
