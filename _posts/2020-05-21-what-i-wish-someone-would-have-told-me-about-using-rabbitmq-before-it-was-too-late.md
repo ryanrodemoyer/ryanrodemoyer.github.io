@@ -12,7 +12,7 @@ My watch is buzzing and in my pre-dawn stupor I cannot decipher if this is an al
 
 For nearly three years we have been running RabbitMQ for our production systems and 99.5% of the time has been a total non-issue. Throughout that time we have scaled to 200+ concurrent consumers running across a dozen virtual machines while coordinating message processing (1 queue to N consumers) and processed hundreds of millions of messages in our .NET application. Our primary use-case is making HTTP calls to another web service either retrieving JSON data or downloading PDF documents. I will tell you that I recommend RabbitMQ and that's because I do. For the most part it's been great to work with and it's performing well in our application. But, and this is a big but, all of this has come at a cost that we did not know at the time we made our architectural decisions.
 
-{% maillist %}
+{% include maillist.html %}
 
 RabbitMQ is the backbone of our polling architecture to check for job results. The typical action sequence is the user submits a request via the web application and the backend handles that message by adding a message to RabbitMQ. The consumer gets the message and makes a HTTP call to another web service to actually submit the request. From there, the polling logic takes over and subsequent messages on the queue each represent a polling attempt to retrieve the results. If a job has no results, the consumer places a message back on a queue so we can delay the next polling attempt by a (customer configurable) amount of time. Our delay logic uses a network of queues with a time-to-live (TTL) and dead letter definitions.
 

@@ -17,7 +17,7 @@ The first step in preparing for an interview is, unsurprisingly, preparation its
 
 - **Punctuality is Non-negotiable:** Don't be the reason an interview starts late. Be on time or even a bit early if possible.
 
-{% maillist %}
+{% include maillist.html %}
 
 ## Dress Code and Appearance
 

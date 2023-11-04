@@ -7,7 +7,7 @@ Roger joined our team as a strong software engineer with valuable experience and
 
 I like to say “your data tells a story.” Every team and organization has data buried in the tools they use that shows how the team operates. I use this data to drive decisions to reward people, discover problems, tweak process and operate more efficiently as a team. I have managed or co-managed 200+ software engineers and dozens of teams practicing scrum or kanban. I am routinely amazed at insights we can attain simply by collecting, organizing and analyzing the data from our tools.
 
-{% maillist %}
+{% include maillist.html %}
 
 The systems, tools and apps we regularly use are filled with information about how we work, work effiency, when we work and general interactions within the team. Data alone is of little value similar to an unorganized bucket of magnetic plastic letters. We must find ways to organize, process and extract insights that drive action and the decision making process. The most powerful metrics are those that motivate us to take action.
 

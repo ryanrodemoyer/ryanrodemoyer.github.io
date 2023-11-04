@@ -7,7 +7,7 @@ Are you struggling to break into the software engineering industry, wondering if
 
 Acquiring a job offer, regardless of where you are in your career, is a testament to your ability to meet the employer's needs. Employers seek candidates who can seamlessly integrate into their teams and immediately contribute. But how can you make yourself stand out in a competitive field where everyone is vying for the same positions? The answer lies in showcasing your skills and proving that you're not just talk but action, particularly in the realm of software development.
 
-{% maillist %}
+{% include maillist.html %}
 
 The journey to becoming a successful software engineer demands consistent effort and dedication. There's no shortcut or a set 40-hour plan to land your dream job. It requires daily commitment – allocating at least an hour every day to actively code. Reading and watching content might load your brain with ideas, but the real magic happens when you translate those ideas into tangible code through your fingertips. Writing code, practicing, and continuously building your portfolio are the keys to making significant progress in this field.
 

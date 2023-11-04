@@ -7,7 +7,7 @@ In the dynamic realm of software engineering, orchestrating a team towards cohes
 
 As a software engineering manager, I am often tasked with ensuring the team is doing things and we the team are achieving specific outcomes. Often I need to make sure specific things are happening on a regular basis. Occasionally I need to understand why the team is NOT doing something we otherwise think they should or thought they were.
 
-{% maillist %}
+{% include maillist.html %}
 
 For any change or behavior I need the team to act on, I lean on my golden rule to maximize our chance of success: “make the right thing (to do) the easy thing (to do) because when you make the right thing the hard thing you get the wrong thing”. Human nature is to minimize effort so every ounce of added friction for “the thing the team is to do” means the team is more likely to struggle executing.
 
