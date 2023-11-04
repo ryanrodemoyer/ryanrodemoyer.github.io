@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<div class"">
+  {% for post in site.posts limit:1 %}
+    {% if post.title == page.title %}
+      {% for post2 in site.posts offset:1 limit:1 %}
+        Care to read my other recent post? It's right here: <a href="{{ site.url }}{{ site.baseurl }}{{ post2.url }}">{{ post2.title }}</a>
+      {% endfor %}
+    {% else %}
+      {% for post2 in site.posts offset:1 limit:1 %}
+        Care to read my latest post? It's right here: <a href="{{ site.url }}{{ site.baseurl }}{{ post2.url }}">{{ post2.title }}</a>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</div>
+
 <article class="post">
   <h1>{{ page.title }}</h1>
 
@@ -14,4 +28,6 @@ layout: default
   </div>
 
   {% include disqus.html %}
+
+  {% include footer.html %}
 </article>
