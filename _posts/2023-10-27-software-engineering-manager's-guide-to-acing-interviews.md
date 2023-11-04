@@ -1,3 +1,8 @@
+---
+layout: post
+title: A Software Engineering Manager's Guide to Acing Interviews
+---
+
 As a software engineering manager and hiring manager, I've had the privilege of evaluating countless candidates for various technical positions. Over the years, I've gathered valuable insights and tips for success in interviews. In this blog post, I'll share these insights with you, the students of a software engineering bootcamp, to help you prepare effectively and increase your chances of landing that dream job.
 
 ## Preparation is Key
