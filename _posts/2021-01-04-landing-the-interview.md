@@ -12,6 +12,8 @@ Are you ready to crack the code to secure that dream job interview? From setting
 
 _I'm targeting positions with a base salary of at least $N per year. I understand there are many factors that go in to making an offer including salary, equity, performance bonuses, health benefits, time off, etc. Those are difficult to quantify as they vary so much from company to company. If an offer materializes, I will consider all aspects of the compenstation package to make my decision._
 
+{% maillist %}
+
 # Create a respectable LinkedIn page.
 
 - Include respectable profile picture.

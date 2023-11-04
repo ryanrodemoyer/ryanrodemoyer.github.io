@@ -7,6 +7,8 @@ In the dynamic realm of software engineering, orchestrating a team towards cohes
 
 As a software engineering manager, I am often tasked with ensuring the team is doing things and we the team are achieving specific outcomes. Often I need to make sure specific things are happening on a regular basis. Occasionally I need to understand why the team is NOT doing something we otherwise think they should or thought they were.
 
+{% maillist %}
+
 For any change or behavior I need the team to act on, I lean on my golden rule to maximize our chance of success: “make the right thing (to do) the easy thing (to do) because when you make the right thing the hard thing you get the wrong thing”. Human nature is to minimize effort so every ounce of added friction for “the thing the team is to do” means the team is more likely to struggle executing.
 
 Life is full of examples where the default behavior occurs because it’s been made so darn easy how could it happen any other way? The grocery store displays bakery items and fried food at the entrance and candy bars at the checkout lane. Social media websites siphon user data because of lax security settings. Disney World setup gift stores as the attraction exit so the parents will buy more gifts for their children. Why would you want to make it any harder than it needs to be for your team members to find success?

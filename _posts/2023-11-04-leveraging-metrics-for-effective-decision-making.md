@@ -3,9 +3,11 @@ layout: post
 title: Leveraging Metrics for Effective Decision Making in Software Development
 ---
 
-Roger joined our team as a strong software engineer with valuable experience and lofty expectations from our team. We had every reason to believe Roger would be a great hire. And from the very beginning, Roger struggled to accomplish any work assignment. When I checked his work history I found that it took him forty-seven days to complete his first change in our codebase. Yikes. The next question I pondered was “how long does it take on average for a developer to complete their first pull request?” I needed data to tell me more about the data point from Roger. This question, and others like it, would send me down my very first rabbit hole of collecting, organizing and analyzing the data from our software engineering teams.
+Roger joined our team as a strong software engineer with valuable experience and lofty expectations from our team. We had every reason to believe Roger would be a great hire. And from the very beginning, Roger struggled to accomplish any work assignment. When I checked his work history I found that it took him forty-seven days to complete his first change in our codebase. Yikes. The next question I pondered was “how long does it take on average for a developer to complete their first pull request?” I needed a larger dataset to tell me more about the one data point about Roger. This question, and others like it, would send me down my very first rabbit hole of collecting, organizing and analyzing the data from our software engineering teams.
 
 I like to say “your data tells a story.” Every team and organization has data buried in the tools they use that shows how the team operates. I use this data to drive decisions to reward people, discover problems, tweak process and operate more efficiently as a team. I have managed or co-managed 200+ software engineers and dozens of teams practicing scrum or kanban. I am routinely amazed at insights we can attain simply by collecting, organizing and analyzing the data from our tools.
+
+{% maillist %}
 
 The systems, tools and apps we regularly use are filled with information about how we work, work effiency, when we work and general interactions within the team. Data alone is of little value similar to an unorganized bucket of magnetic plastic letters. We must find ways to organize, process and extract insights that drive action and the decision making process. The most powerful metrics are those that motivate us to take action.
 
