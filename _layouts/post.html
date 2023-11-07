@@ -3,13 +3,15 @@ layout: default
 ---
 
 <div style="width: 400px; margin: auto; text-align: center">
-  {% for post in site.posts limit:1 %} {% if post.title == page.title %} {% for
-  post2 in site.posts offset:1 limit:1 %}
+  {% for post in site.posts limit:1 %} {% if post.title == page.title %}
+  <!-- i'm on the most recent page-->
+  {% for post2 in site.posts offset:1 limit:1 %}
+  <!-- skip page to preview the next -->
   <p>Care to read my other recent post? It's right here:</p>
   <a href="{{ site.url }}{{ site.baseurl }}{{ post2.url }}"
     >{{ post2.title }}</a
   >
-  {% endfor %} {% else %} {% for post2 in site.posts offset:1 limit:1 %}
+  {% endfor %} {% else %} {% for post2 in site.posts limit:1 %}
   <p>Care to read my other recent post? It's right here:</p>
   <a href="{{ site.url }}{{ site.baseurl }}{{ post2.url }}"
     >{{ post2.title }}</a
