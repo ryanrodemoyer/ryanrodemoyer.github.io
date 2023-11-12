@@ -13,15 +13,19 @@ permalink: /contact/
 <form action="https://formspree.io/f/xzblqblw" method="POST">
   <label>
     Your name:
-    <input type="text" name="name"
+    <input type="text" name="name" required
   /></label>
   <label>
     Your email:
-    <input type="email" name="email" />
+    <input type="email" name="email" required />
   </label>
   <label>
     Your message:
-    <textarea name="message" rows="10"></textarea>
+    <textarea name="message" rows="10" required></textarea>
+  </label>
+  <label>
+    Your resume (optional, pdf only):
+    <input type="file" name="upload" accept="application/pdf" />
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>

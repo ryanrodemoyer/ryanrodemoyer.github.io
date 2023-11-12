@@ -18,6 +18,8 @@ Normally, the charge for a 30-minute technical mock interview is $100. However, 
 - **Fill in Your Details:** Provide some basic information about your background and what you're hoping to gain from the session.
 - **Confirmation:** You'll receive a confirmation email with all the details you need to prepare.
 
+_Note: This is a MOCK interview used to practice a professional technical interview for software engineering positions. There is no job offer or position tied to this interview._
+
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/ryanrodemoyer/technical-mock-interview" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
