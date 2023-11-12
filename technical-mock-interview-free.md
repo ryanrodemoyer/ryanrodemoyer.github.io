@@ -16,6 +16,7 @@ permalink: /free-technical-mock-interview/
 - **Real-World Interview Experience:** Engage in a simulated technical interview mirroring the structure and content of top tech company interviews.
 - **Personalized Feedback:** Receive constructive feedback immediately after your session, highlighting your strengths and areas for improvement.
 - **Insightful Tips & Strategies:** Learn effective strategies to tackle common interview challenges, enhancing your problem-solving and communication skills.
+- **Resume Review Services:** Get expert advice on refining your resume to stand out in the competitive tech job market.
 
 # Who Is This For?
 
