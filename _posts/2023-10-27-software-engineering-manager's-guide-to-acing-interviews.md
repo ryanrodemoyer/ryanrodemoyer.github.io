@@ -97,6 +97,8 @@ Technical interviews can vary widely from one company to another:
 
 After the interview, it's crucial to follow up:
 
+{% include nextpost.html %}
+
 - **Ask About Next Steps:** At the end of the interview, inquire about the next steps and their associated timelines.
 
 - **Practice Patience:** Recruiters have other commitments, so be patient when waiting for follow-up.

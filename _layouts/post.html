@@ -2,21 +2,23 @@
 layout: default
 ---
 
-<div style="width: 400px; margin: auto; text-align: center">
-  {% for post in site.posts limit:1 %} {% if post.title == page.title %}
-  <!-- i'm on the most recent page-->
-  {% for post2 in site.posts offset:1 limit:1 %}
-  <!-- skip page to preview the next -->
-  <p>Care to read my other recent post? It's right here:</p>
-  <a href="{{ site.url }}{{ site.baseurl }}{{ post2.url }}"
-    >{{ post2.title }}</a
-  >
-  {% endfor %} {% else %} {% for post2 in site.posts limit:1 %}
-  <p>Care to read my other recent post? It's right here:</p>
-  <a href="{{ site.url }}{{ site.baseurl }}{{ post2.url }}"
-    >{{ post2.title }}</a
-  >
-  {% endfor %} {% endif %} {% endfor %}
+<div
+  id="social-cta"
+  style="
+    border: 1px solid #ccc;
+    padding: 15px;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+  "
+>
+  <p>
+    On Twitter/X I post focused content on software engineering and leadership.
+    Where did I get it right? Where did I get it wrong? Let me know.
+  </p>
+  <p>
+    <a href="https://www.twitter.com/RyanRodemoyer2">Follow me on Twitter/X</a>
+  </p>
 </div>
 
 <article class="post">
@@ -25,15 +27,4 @@ layout: default
   <div class="entry">{{ content }}</div>
 
   <div class="date">Published on {{ page.date | date: "%B %e, %Y" }}</div>
-
-  <div id="social-cta">
-    <p>
-      <a href="https://www.twitter.com/RyanRodemoyer2"
-        >Follow me on Twitter/X</a
-      >
-      where I post focused content on software engineering and leadership. Where
-      did I get it right? Where did I get it wrong? Let me know.
-    </p>
-  </div>
-  {% include disqus.html %}
 </article>

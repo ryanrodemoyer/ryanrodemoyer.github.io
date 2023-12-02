@@ -45,6 +45,8 @@ _I'm targeting positions with a base salary of at least $N per year. I understan
   1.  Tell me about the culture within this team, group, company, etc. without using the word "collaborative".
   1.  Tell me about the interview process starting with where we are right now and through the final interview process. Do your best to get specific details. Some companies have a thorough and well established process. And some companies seem to make it up as they go.
 
+{% include nextpost.html %}
+
 ## Company Research
 
 - As a hiring manager, it is great to see candidates that show some level of preparation.

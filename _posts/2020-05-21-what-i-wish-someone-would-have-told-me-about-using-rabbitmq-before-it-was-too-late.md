@@ -62,6 +62,8 @@ How screwed will you be if you were to lose all (or even a third) of your messag
 
 At some point in the future (perhaps during an upgrade) you will want the flexibility to independently publish to and consume from different clusters and/or load balancers. This is a zero-risk-high-reward pattern you can early-on build in your application for where you will pat yourself on the back in the future.
 
+{% include nextpost.html %}
+
 ## The log files will grow to consume dozens of gigabytes of disk space
 
 The log files from RabbitMQ will, over time, grow to consume dozens of gigabytes of disk space. It's easy enough to rotate those files using `rabbitmqctl rotate_logs` but strive to automate a process so that "running out of disk space" never causes an outage.

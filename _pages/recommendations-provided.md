@@ -6,6 +6,28 @@ permalink: /recommendations-provided
 
 These are some of the LinkedIn recommendations I've provided for past colleagues. All recommendations are based on my personal experience working with the individual. I've collected these recommendations here for easy reference and to showcase my ability to provide thoughtful and meaningful recommendations.
 
+# D.D. - SDK Architect
+
+I learned a lot from D.D. during our time working together and he set the bar high for what I would expect from a software engineer and architect. Our company made a product that was highly customizable by the end-user as they could add new code into the application and customize the database schema. D.D. had a unique role as he was responsible for the team that worked with the customer development teams to support, educate and manage the relationship between our company and over a dozen development teams across our customer-base.
+
+During our six years working together, I watched D.D. inherit a small team with an existing lead that was retiring soon. D.D. made it appear effortless to come up to speed on this team, take over responsibilities and set the direction for going forward. He established countless new processes to modernize the team, added new team members to support product growth and established a new development portal to meet the needs of communicating with and training customers. It's an understatement to say that Don did a lot to lead his team and our customers.
+
+Perhaps what I remember most fondly, is how much I admired his ability to adapt to the technology revamp on our product. The revamp included significant changes to the software architecture that had major impacts on our customers ability to use the SDK. Don lead with grace and patience as we supported each other to make progress. It was a marathon, not a race. Adapting to these changes meant Don was responsible for understanding the technology himself, verifying it is suitable for our customers, and then educating our customers on using it to solve their problems.
+
+D.D. is a strong software engineer, leader and communicator. It's an honor to have worked beside him for several years.
+
+# M.K. - Software Engineer
+
+M.K. is an extremely sharp and talent software engineer. We worked together for several years and I was continuously impressed with his ability to solve problems and deliver value.
+
+A couple things come to mind when I think of M.K. First, he's ambitious, tenacious and talented. He's not afraid to take on a challenge and he's not afraid to ask for help when he needs it. Second, he's a great team player. He's always willing to help out and he's always willing to learn from others. Third, he's amongst the most unflappable people I've ever met. He's able to stay calm and focused when the pressure is on and the stakes are high. His demeanor remains the same on a casual Friday as it does on a Monday morning when the team is in the middle of a production outage.
+
+M.K. became a trusted colleague and we became close collaborators on an important internal project. Together, we maintaned and enhanced an application used by over one-hundred developers to maintain and update their dev environments. While the application was not a revenue generating product, it was a critical application that enabled our developers to be productive by hiding complexity in our development process. The tool reduced the onboarding time for new team members and enabled developers of all experience levels to stay productive. Together, we enhanced the application to support new features and to improve the overall developer experience. The punchline is that Matt did all of this on his own initiatve. He started as a user of the application and then took it upon himself to learn the codebase, understand the business requirements and then deliver value. He did all of this while also working on other projects and supporting other teams.
+
+M.K earned the trust of his teammates and our management team to work on mission critical functionality. He earned their trust by, time and time again, solving problems and delivering value.
+
+M.K. is a talented software engineer, great team player and someone that I would want on my team.
+
 # P.G. - VP of Software Engineering
 
 P.G. is a remarkable leader - he empowers his teams and organization to solve problems while working to provide the resources and people needed to create terrific solutions. He has a unique/rare ability to be technically focused while also staying detached from the day to day minutia to keep our team focused on the big picture.

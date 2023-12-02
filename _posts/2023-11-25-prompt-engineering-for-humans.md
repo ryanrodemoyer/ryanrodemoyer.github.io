@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prompt Engineering for Humans
+hook: What can we learn from a skilled prompt engineer that can be applied to our human interactions?
 ---
 
 Unless you've been completely disconnected from recent tech advancements, you're likely aware of the surge in generative artificial intelligence systems (GAIS) like ChatGPT, Stable Diffusion, Bard, Claude, and Midjourney. These systems, at their core, comprehend text and generate new content in forms of text, computer code, images, or videos. The current state-of-the-art in GAI leverages humanity's collective works, introducing a new era of content analysis and generation. The quality of results is determined by the clarity and quality of the questions we ask and demands we place on the system. Asking poorly worded questions, omitting details or jumbling too many things into a single request will produce low quality results. On the contrary, learning to adapt requests so the system can shine will produce stunning results that were once thought only possible in science fiction. This leads to an intriguing question: How can we apply the strategies for maximizing outputs from these AI systems to enhance our human interactions and experiences?
@@ -18,6 +19,8 @@ Just as a prompt engineer meticulously considers word choice and sentence struct
 This message is particularly pertinent for tech professionals who often view human elements as secondary. If you find excitement in crafting a new prompt for Bard, consider channeling similar enthusiasm into forming new human connections. Beyond coding and technical skills, fostering strong relationships is vital. The typical software engineer might be adept at prompt engineering for AI, staying abreast of the latest in database technology and cloud APIs, yet they often invest minimal effort in connecting with their peers and managers. Borrowing a phrase from sports, "it's about the Jim’s and Joe’s, not just the 1’s and 0’s."
 
 Prompt engineering with humans can manifest in various ways. How we communicate with others significantly impacts the responses we get. Phrasing questions thoughtfully can lead to better and more straightforward answers. Whether it's motivating a team during crunch time, delivering a halftime speech, or simply interacting with family members, the effectiveness of our communication is paramount. Children, for instance, know exactly how to "prompt" their parents to give in to their demands The way we approach conversations can either build bridges or create barriers. Getting poor results from ChatGPT is a signal that the prompt needs refined or discard altogether. It's not rocket science; the user is accustomed to finding a new prompt to forge ahead. Your colleague, family member, neighbor and angry customer are all similar in that with the right prompt a connection can be created.
+
+{% include nextpost.html %}
 
 I urge you to recognize the parallels between prompt engineering and effective human communication. Acknowledging this connection invites us to reconsider our approach to conversations, both with AI and with each other. Just as a well-crafted prompt can yield remarkable results from an AI, the right words and approach can enhance our human connections, foster understanding, and lead to more meaningful interactions.
 

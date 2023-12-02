@@ -1,0 +1,27 @@
+<div
+  style="
+    border: 1px solid #ccc;
+    padding: 15px;
+    width: 200px;
+    margin: 15px;
+    text-align: center;
+    float: right;
+  "
+>
+  {% for post in site.posts limit:1 %} {% if post.title == page.title %}
+  <!-- i'm on the most recent page-->
+  {% for post2 in site.posts offset:1 limit:1 %}
+  <!-- skip page to preview the next -->
+  <p>{{ post2.hook }}</p>
+  My next post:
+  <a href="{{ site.url }}{{ site.baseurl }}{{ post2.url }}"
+    >{{ post2.title }}</a
+  >
+  {% endfor %} {% else %} {% for post2 in site.posts limit:1 %}
+  <p>{{ post2.hook }}</p>
+  My next post:
+  <a href="{{ site.url }}{{ site.baseurl }}{{ post2.url }}"
+    >{{ post2.title }}</a
+  >
+  {% endfor %} {% endif %} {% endfor %}
+</div>

@@ -23,6 +23,8 @@ Back to Roger. We recognized there was a clear problem and initiated more direct
 
 Here’s another story. Over the course of 18 months we scaled our software engineering head count to over 100 people across North America. In hindsight, I think our oversight of people was too lax. I discovered multiple people that were doing nothing. Software engineers that were simply choosing to not do any work. I measured their contributions and it scored at zero. Dozens of months of people-time with nothing to show for it.
 
+{% include nextpost.html %}
+
 On a positive front, we used data to confirm our anecdotal accounts with the top performing software engineers on the team. In those cases, the data helped us make legitimate cases for promotions and compensation. In other situations, the data drove decision making to make informed choices on personnel as we reduced (contracting) teams near the end of the project.
 
 To leave the reader with actionable information for KPI’s for Software Engineering teams I have this for you. First, ensure the teams are making changes in the codebase through pull requests. Second, review the pull requests by person per week. Pull requests are nearly an industry standard and teams should be familiar. Also, pull requests are easy to work with and track. Pull Requests by person per week is the best KPI I can recommend that is near universal across teams and organizations so start here. To grow your metrics it will depend on the organization so I recommend to start simple and grow them intentionally. Ask yourself questions to see if you can formulate an answer with the data.
