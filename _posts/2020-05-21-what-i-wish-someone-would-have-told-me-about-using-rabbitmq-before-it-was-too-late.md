@@ -3,6 +3,18 @@ layout: post
 title: What I Wish Someone Would Have Told Me About Using RabbitMQ Before It Was Too Late
 ---
 
+# RabbitMQ Crash Course for 2025
+
+Got the RabbitMQ blues? It's overwhelming even for experienced engineers.
+
+## REAL WORKING CODE!
+
+Check this YouTube video for a crash course on RabbitMQ. You'll be up and running within five minutes running RabbitMQ with sending and receiving messages.
+
+<div style="display: flex; justify-content: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zHyft5DpC6A?si=A4Jo251nhxoeXdfe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 <div style="background-color: #F0F0F0; margin: 0; padding: 5px; border-radius: 5px;">
 <p>November 2023 update: Fun fact, this post got decent traction on <a href="https://news.ycombinator.com/item?id=32091550" target="_blank">Hacker News</a> and <a href="https://www.reddit.com/r/programming/comments/w0f39y/what_i_wish_someone_would_have_told_me_about/" target="_blank">/r/programming</a> and I had no clue. Click the links if you're interested in those relevant discussions.
 </p>
